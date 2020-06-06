@@ -8,10 +8,17 @@ sections:
   label: Content
 - type: document
   path: content/_index.md
-  label: Home
+  label: Inicio
 - type: directory
   path: content/post
-  label: Posts
+  label: Artículos
+  create: all
+  match: "**/*"
+  templates:
+  - post
+- type: directory
+  path: content/docs
+  label: Documentos
   create: all
   match: "**/*"
   templates:
