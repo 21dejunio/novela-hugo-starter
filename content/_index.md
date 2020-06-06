@@ -1,7 +1,9 @@
 ---
 hero:
-  heading: Novela, the simplest way to start publishing with Hugo and Forestry.
-  maxWidthPX: 652
+  heading: Agrupación de Estudiantes 21 de junio. Centro de Estudiantes de Humanidades
+    y Ciencias de la Educación. ASCEEP - FEUU
+  maxWidthPX: "652"
 seo:
-  image: /images/hero-2.jpg
+  image: "/images/hero-2.jpg"
+
 ---
