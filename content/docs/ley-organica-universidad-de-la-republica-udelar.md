@@ -1,14 +1,11 @@
 ---
-title: Understanding the Gatsby lifecycle with Narative
-date: 2019-05-01
+title: Ley Orgánica de la Universidad de la República
+date: 1958-10-15
 hero: /images/hero-2.jpg
-excerpt: With the growing community interest in Gatsby, we hope to create more resources that make it easier for anyone to grasp the power of this incredible tool.
-timeToRead: 6
+excerpt: Un hito en la historia de la UdelaR y una ley que le recomendamos leer a cada estudiante.
+timeToRead: 60
 authors:
-  - Thiago Costa
-  - Dennis Brotzky
-  - Brad Tiller
-  - Mack Mansouri
+- 21 de junio
 
 ---
 
